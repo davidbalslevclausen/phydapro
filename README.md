@@ -1,19 +1,12 @@
 # Conda environment with 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidbalslevclausen/phydapro.git/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidbalslevclausen/phydapro.git/master?filepath)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/davidbalslevclausen/phydapro.git/master?filepath=index.ipynb
-
-
-
-https://mybinder.org/v2/gh/davidbalslevclausen/phydapro/dbc4e34135d6365260f3bd044318b5936825bd87
-
-
-https://mybinder.org/v2/gh/davidbalslevclausen/phydapro/master
 
 
 http://mybinder.org/v2/gh/binder-examples/requirements/master
