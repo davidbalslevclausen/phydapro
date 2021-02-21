@@ -13,6 +13,10 @@ https://mybinder.org/v2/gh/davidbalslevclausen/phydapro.git/master?filepath=inde
 https://mybinder.org/v2/gh/davidbalslevclausen/phydapro/dbc4e34135d6365260f3bd044318b5936825bd87
 
 
+https://mybinder.org/v2/gh/davidbalslevclausen/phydapro/master
+
+
+http://mybinder.org/v2/gh/binder-examples/requirements/master
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
